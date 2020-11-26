@@ -1,3 +1,5 @@
+// import { useIndexedDb } from "./indexedDb";
+
 let transactions = [];
 let myChart;
 
